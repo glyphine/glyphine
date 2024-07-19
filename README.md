@@ -1,6 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently working on Machine Learning and Deep Learning projects.<br><br>👯 I’m looking to collaborate on innovative AI applications and research projects.<br><br>🤝 I’m looking for help with advanced model optimization and deployment strategies.<br><br>🌱 I’m currently learning about reinforcement learning and natural language processing.<br> <br>💬 Ask me about neural networks, data preprocessing, and model evaluation techniques.<br><br>⚡ Fun fact: I love to play games and explore complex algorithms 
-
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/salmon8425) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@gwynann_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/gwyn-lobaton) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/glyphine) 
