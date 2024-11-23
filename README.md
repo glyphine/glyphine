@@ -44,5 +44,6 @@
 
 <br clear="both">
 
-<img src="https://github.dev/glyphine/glyphine/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/glyphine/glyphine/output/snake.svg" alt="Snake animation" />
+
 ###
