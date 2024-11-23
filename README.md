@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Gwyn Lobaton and I'm a Full-Stack Developer, from Philippines</h2>
+<h2 align="left">Hey there! I'm Gwyn Lobaton, a Full-Stack Developer from the Philippines, turning big ideas into reality through code.</h2>
 
 ###
 
