@@ -44,6 +44,6 @@
 
 <br clear="both">
 
-<img src="snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/glyhpine/glyphine/blob/output/github-contribution-grid-snake.gif)
 
 ###
