@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://tenor.com/view/azumanga-daioh-osaka-anime-dancce-anime-dance-gif-18338375031522690586)"  />
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 
 ###
