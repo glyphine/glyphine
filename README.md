@@ -11,6 +11,7 @@
 
 <img align="right" height="150" src="https://tenor.com/bO4KL.gif" />
 
+<div class="tenor-gif-embed" data-postid="24526989" data-share-method="host" data-aspect-ratio="1.31148" data-width="100%"><a href="https://tenor.com/view/larao-laraolarao-anime-girl-taking-pictures-gif-24526989">Larao Laraolarao Sticker</a>from <a href="https://tenor.com/search/larao-stickers">Larao Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ###
 
