@@ -1,6 +1,6 @@
 <h2 align="left"> ࣪‧₊˚❀༉‧₊˚.Hey there! I'm Gwyn, a Full-Stack Developer from the Philippines ‧₊˚❀༉‧₊˚.࣪</h2>
 
-<div align= "center" padding = 12px> 
+<div align= "center" padding = 32> 
 ─────────────୨ৎ─────────────
 </div>
 
