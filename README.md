@@ -1,5 +1,5 @@
 <h2 align="left">
-  ࣪‧₊˚❀༉‧₊˚. Hey there! I'm Gwyn, a passionate Full-Stack Developer based in the Philippines. ‧₊˚❀༉‧₊˚.࣪
+  ࣪‧₊˚❀༉‧₊˚. Hey there! I'm Gwyn, a passionate Full-Stack Developer. ‧₊˚❀༉‧₊˚.࣪
 </h2>
 
 
