@@ -1,4 +1,4 @@
-<h2 align="left">
+<h2 align="center">
   ࣪‧₊˚❀༉‧₊˚. Hey there! I'm Gwyn, a passionate Full-Stack Developer. ‧₊˚❀༉‧₊˚.࣪
 </h2>
 
