@@ -1,13 +1,26 @@
-<h2 align="left"> ࣪‧₊˚❀༉‧₊˚.Hey there! I'm Gwyn, a Full-Stack Developer from the Philippines ‧₊˚❀༉‧₊˚.࣪</h2>
+<h2 align="left">
+  ࣪‧₊˚❀༉‧₊˚. Hey there! I'm Gwyn, a Full-Stack Developer from the Philippines ‧₊˚❀༉‧₊˚.࣪
+</h2>
 
-<div align= "center" padding = 32> 
-─────────────୨ৎ─────────────
+<br />
+
+<div align="center" style="padding: 32px;">
+  ─────────────୨ৎ─────────────
 </div>
-<div></div>
+
+<br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=glyphine&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=glyphine&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=glyphine&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false"
+    height="150"
+    alt="stats graph"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=glyphine&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false"
+    height="150"
+    alt="languages graph"
+  />
 </div>
 
 ###
