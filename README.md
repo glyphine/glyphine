@@ -1,4 +1,4 @@
-<h2 align="left">˙⋆✮ ࣪Hey there! I'm Gwyn, a Full-Stack Developer from the Philippines ✮⋆˙ ࣪</h2>
+<h2 align="left"> ࣪ ˙⋆✮Hey there! I'm Gwyn, a Full-Stack Developer from the Philippines ✮⋆˙ ࣪</h2>
 
 ###
 
