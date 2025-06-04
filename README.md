@@ -2,7 +2,6 @@
   ࣪‧₊˚❀༉‧₊˚. Hey there! I'm Gwyn, a Full-Stack Developer from the Philippines ‧₊˚❀༉‧₊˚.࣪
 </h2>
 
-<br />
 
 <div align="center" style="padding: 32px;">
   ─────────────୨ৎ─────────────
